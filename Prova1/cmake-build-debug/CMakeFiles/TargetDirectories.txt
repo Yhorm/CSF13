@@ -1,0 +1,3 @@
+D:/CLion projects/Losango/cmake-build-debug/CMakeFiles/Losango.dir
+D:/CLion projects/Losango/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion projects/Losango/cmake-build-debug/CMakeFiles/rebuild_cache.dir
